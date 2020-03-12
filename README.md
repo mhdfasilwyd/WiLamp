@@ -2,7 +2,7 @@
 WiLamp [ Wi-Fi Controlled Lamp using ESP12 ]
 
 * One Click Mode
-* Preset IP Address
+* No need to set IP Address
 * No Internet Needed (Works in your Hotspot Region)
 * Customized App
 * Optimized Code
